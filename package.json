@@ -1,0 +1,10 @@
+{
+  "name": "mv-task-server",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

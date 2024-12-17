@@ -1,0 +1,137 @@
+{
+  "contacts": [
+    {
+      "name": "John Doe",
+      "username": "johndoe",
+      "info": "Software engineer specializing in frontend development.",
+      "image": "https://picsum.photos/seed/johndoe/150",
+      "id": 1
+    },
+    {
+      "name": "Jane Smiths",
+      "username": "janesmith",
+      "info": "Marketing expert with a passion for content creation.",
+      "image": "https://picsum.photos/seed/janesmith/150",
+      "id": 2
+    },
+    {
+      "name": "Michael Browns",
+      "username": "michaelb",
+      "info": "Freelance graphic designer and illustrator.",
+      "image": "https://picsum.photos/seed/michaelb/150",
+      "id": 3
+    },
+    {
+      "name": "Emily Johnson",
+      "username": "emilyjs",
+      "info": "Data analyst with experience in Python and SQL.",
+      "image": "https://picsum.photos/seed/emilyj/150",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Chris Davis",
+      "username": "chrisd",
+      "info": "IT support specialist with expertise in networking.",
+      "image": "https://picsum.photos/seed/chrisd/150"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "username": "sarahw",
+      "info": "Full-stack developer with a passion for open-source projects.",
+      "image": "https://picsum.photos/seed/sarahw/150"
+    },
+    {
+      "id": 8,
+      "name": "Laura Taylor",
+      "username": "laurat",
+      "info": "UX/UI designer focused on creating intuitive user experiences.",
+      "image": "https://picsum.photos/seed/laurat/150"
+    },
+    {
+      "id": 9,
+      "name": "James White",
+      "username": "jamesw",
+      "info": "DevOps engineer with expertise in CI/CD pipelines.",
+      "image": "https://picsum.photos/seed/jamesw/150"
+    },
+    {
+      "id": 10,
+      "name": "Olivia Moore",
+      "username": "oliviam",
+      "info": "Content strategist and social media manager.",
+      "image": "https://picsum.photos/seed/oliviam/150"
+    },
+    {
+      "id": 11,
+      "name": "Daniel Martinez",
+      "username": "danielm",
+      "info": "Mobile app developer specializing in React Native.",
+      "image": "https://picsum.photos/seed/danielm/150"
+    },
+    {
+      "id": 12,
+      "name": "Sophia Anderson",
+      "username": "sophiaa",
+      "info": "Machine learning engineer with a background in AI research.",
+      "image": "https://picsum.photos/seed/sophiaa/150"
+    },
+    {
+      "id": 13,
+      "name": "Matthew Harris",
+      "username": "matthewh",
+      "info": "Product manager with experience in Agile methodologies.",
+      "image": "https://picsum.photos/seed/matthewh/150"
+    },
+    {
+      "id": 14,
+      "name": "Victoria Clark",
+      "username": "victoriac",
+      "info": "Cybersecurity specialist with a focus on threat analysis.",
+      "image": "https://picsum.photos/seed/victoriac/150"
+    },
+    {
+      "id": 15,
+      "name": "Anthony Young",
+      "username": "anthonyy",
+      "info": "Blockchain developer and smart contract enthusiast.",
+      "image": "https://picsum.photos/seed/anthonyy/150"
+    },
+    {
+      "id": 16,
+      "name": "Mia Hernandez",
+      "username": "miah",
+      "info": "SEO specialist helping brands rank higher on search engines.",
+      "image": "https://picsum.photos/seed/miah/150"
+    },
+    {
+      "name": "Alexander Scott",
+      "username": "alexs",
+      "info": "Game developer with experience in Unity and Unreal Engine.",
+      "image": "https://picsum.photos/seed/alexs/150",
+      "id": 17
+    },
+    {
+      "id": 18,
+      "name": "Isabella Lewis",
+      "username": "isabellal",
+      "info": "Freelance copywriter with a knack for storytelling.",
+      "image": "https://picsum.photos/seed/isabellal/150"
+    },
+    {
+      "id": 19,
+      "name": "Ethan Walker",
+      "username": "ethanw",
+      "info": "AI ethicist focusing on responsible AI development.",
+      "image": "https://picsum.photos/seed/ethanw/150"
+    },
+    {
+      "id": 20,
+      "name": "Charlotte Adams",
+      "username": "charlottea",
+      "info": "E-commerce specialist and Shopify expert.",
+      "image": "https://picsum.photos/seed/charlottea/150"
+    }
+  ]
+}
